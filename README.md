@@ -30,7 +30,7 @@ Hi, I'm [Nilesh Verma](http://linkedin.com/in/nilesh-verma), a passionate self-t
 
 
 ## Rest API Project
-About my sample REST API  project : [IGNITE-REST-API](https://github.com/nileshverma054/Ignite-Rest-API)  
+About my sample REST API  project : [IGNITE-REST-API](https://documenter.getpostman.com/view/15731252/UVkjvxrS)  
 
 <img alt="GIF" src="https://drive.google.com/uc?export=view&id=1bNiUWPAxvtrIHRgGY4WbOHreUoZ2x03z"/>
 
