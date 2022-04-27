@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 Hi, I'm [Nilesh Verma](http://linkedin.com/in/nilesh-verma), a passionate self-taught software developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true by **building reliable backend services**. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -26,23 +26,23 @@ Hi, I'm [Nilesh Verma](http://linkedin.com/in/nilesh-verma), a passionate self-t
 </p>
 
 ## Rest API Project
-Find out this a REST API  project : [IGNITE-REST-API](https://github.com/nileshverma054/Ignite-Rest-API)  
+About my sample REST API  project : [IGNITE-REST-API](https://github.com/nileshverma054/Ignite-Rest-API)  
 
 <img alt="GIF" src="https://drive.google.com/uc?export=view&id=1bNiUWPAxvtrIHRgGY4WbOHreUoZ2x03z"/>
 
 **Features**
 
- - [ ] Includes all standard REST API Use Cases
-	 - [ ] Authentication & Authorization
-	- [ ] Email registration and Google Single-Sign-On  
- - [ ] API Documentation - [View](https://documenter.getpostman.com/view/15731252/UVkjvxrS#6656d5d3-d4de-4588-b148-5be7e5c97199) 
- - [ ] Asynchronous Workers - Making APIs to respond quickly
- - [ ] Notification Engine
-	 - [ ] Email Notifications
-	 - [ ] Slack Notifications
- - [ ] Easy and Faster debugging with complete API tracing
- - [ ] Nginx to handle traffic and scaling
- - [ ] CI/CD for automating deployment
+ - [x] Includes all standard REST API Use Cases
+	 - [x] Authentication & Authorization
+	- [x] Email registration and Google Single-Sign-On  
+ - [x] API Documentation - [View](https://documenter.getpostman.com/view/15731252/UVkjvxrS) 
+ - [x] Asynchronous Workers - Making APIs to respond quickly
+ - [x] Notification Engine
+	 - [x] Email Notifications
+	 - [x] Slack Notifications
+ - [x] Easy and Faster debugging with complete API tracing
+ - [x] Nginx to handle traffic and scaling
+ - [x] CI/CD for automating deployment
 
 
 
@@ -52,9 +52,10 @@ Find out this a REST API  project : [IGNITE-REST-API](https://github.com/nileshv
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nileshverma054&show_icons=true&theme=nileshverma054" alt="nileshverma054" />
 
 
-<h3>Also find me on</h3>
+### Also find me on
 <p><a href="https://github.com/nileshverma054" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="http://linkedin.com/in/nilesh-verma" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.instagram.com/nilesh.verma_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a></a>
 </p>
+
 
