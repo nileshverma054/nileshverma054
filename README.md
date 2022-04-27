@@ -2,15 +2,7 @@
 
 Hi, I'm [Nilesh Verma](http://linkedin.com/in/nilesh-verma), a passionate self-taught software developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true by **building reliable backend services**. I take great care in the experience, architecture, and code quality of the things I build.
 
-  <img alt="GIF" src="https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5db041379523b1571832119.gif" />
-
-  
-- 💼 Any freelance work? do reach, [email](nileshverma054@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
-
-<br />
-
-<h3>Things I code with</h3>
+### Things I code with
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-291D1B?style=flat-square&logo=Python&logoColor=white" />
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -24,6 +16,16 @@ Hi, I'm [Nilesh Verma](http://linkedin.com/in/nilesh-verma), a passionate self-t
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-764ABC?style=flat-square&logo=Ansible&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Cloud_Platforms-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
+
+<br/>
+
+
+  <img alt="GIF" src="https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5db041379523b1571832119.gif" />
+
+  
+- 💼 Any freelance work? do reach, [email](nileshverma054@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
+
 
 ## Rest API Project
 About my sample REST API  project : [IGNITE-REST-API](https://github.com/nileshverma054/Ignite-Rest-API)  
