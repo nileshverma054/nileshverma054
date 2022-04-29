@@ -10,7 +10,7 @@ Hi, I'm [Nilesh Verma](http://linkedin.com/in/nilesh-verma), a passionate self-t
   <img alt="GIF" src="https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5db041379523b1571832119.gif" />
 
   
-- 💼 Any freelance work? do reach, <a href = "mailto: abc@example.com"> Email</a> :)
+- 💼 Any freelance work? do reach, <a href = "mailto: nileshverma054@gmail.com"> Email</a> :)
 - 💬 Ask me about anything, I am happy to help;
 
 ### Things I code with
